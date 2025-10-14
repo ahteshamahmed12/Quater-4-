@@ -1,0 +1,46 @@
+prompt and context engenerring
+
+prompt is usesful when both agent and user will understand.
+
+telling your ai agent and your llm what to do and how to do.
+
+prompt : to provide instruction to llm
+
+context: to provide the background or relevant information to LLM.
+
+pillars of prompt engineering
+
+1. Markdown (stabdard)
+            create login function with username and password
+   XML 
+   JSON 
+
+   NLP(Natural Language Process)
+
+2. WSL (windows subsystem for Linux) for universal code development enviorment.
+
+3. AI CLI of Gemini 
+ 4.1 Codex CLI  (20$ per month)
+ 4.2 Gemini CLI (1000 request free) 
+ 4.3 QWEN CLI (2000 request free)
+ 4.4 CLaude CLI (20$ per month )
+
+4. Plugins , AI CLI'S MCP Server 
+
+5. Test Driven Development 
+       
+
+6. SPec Driven Development
+        define the step for out business development
+
+7. Deployment
+        cluster : gather of computer
+        Digital Ocean 
+        Azure 
+
+softwares to learn 
+
+1. Docker  
+2. Kubernetes
+3. Daper
+4. Ray only for Linux
