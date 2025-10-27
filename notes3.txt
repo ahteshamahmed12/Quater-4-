@@ -1,0 +1,98 @@
+loveable
+vzero.dev                          unsplash pinterest
+
+
+1- Chain of Thought (CoT) Prompting
+Encourage step-by-step reasoning for complex problems.
+
+Example:
+Solve this step by step:
+If I was 6 when my sister was half my age, how old is my sister when I'm 40?
+
+Let me think through this step by step:
+
+When to use:
+Math problems
+Logical reasoning
+Complex analysis
+Multi-step processes
+
+Best practices:
+Use "Let's think step by step" or similar phrases
+Set temperature to 0 for consistent reasoning
+Extract final answers separately from reasoning
+
+Think before answering
+SHow working
+Example: 
+1-Maths Problem (algebra problem)  
+2-Making a dish 
+3-Trip to area
+
+2-Tree of Thoughts (ToT)
+Explore multiple reasoning branches simultaneously for complex problems.
+
+When to use:
+Creative problem solving
+Strategic planning
+Complex decision-making
+Tasks requiring exploration of alternatives
+
+Explore multiple path
+Thinks in different path
+We could say tell us 2 possilble ways 
+Thinks pros and cons
+
+E.G 
+1-How to control air pollution
+2-Tax collection
+
+Problem: Country developing 
+Solution 1: Tax xollection (50%)
+
+Solution 2: 
+High class : (50%)
+Middle class :(8%)
+Lower class : (1%)
+
+Self-Consistency
+Generate multiple reasoning paths and select the most common answer.
+
+Process:
+
+Ask the same question multiple times with different phrasings
+Compare the answers
+Choose the most frequently occurring result
+
+Need conformation of a particular thing
+
+Example
+
+1-Doctor headache consultant
+2- Car engine
+3- buying a house
+
+ReAct (Reasoning + Acting)
+Combine reasoning with tool use or actions.
+
+RE(Reasoning and Thought)
+1- Analyze the query/Prompting
+ACT(Action)
+1- CAll a tool or API
+
+1. Be Specific and Clear
+
+2. Use Action Verbs
+Be explicit about what you want the AI to do:
+
+Analyze, Compare, Create, Describe, Evaluate
+Extract, Generate, List, Rank, Summarize
+Translate, Write, Explain, Classify
+
+How to write an effective prompts
+Be specific and clear
+Use action Verbs
+Tell AI Agent what to do
+Avoid telling Agent what next to do
+Provide example 
+Use variables
