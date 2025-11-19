@@ -1,0 +1,47 @@
+https://ai-netaive.panaversity.org
+https://github.com/jawwadali/sunday-afternoon-Q4
+
+Steps
+
+a- gemini 
+b- /auth  (authenticate the user)
+
+
+memory or context = Gemini.md 
+
+agent is a stateless
+
+we can write Gemini.md in three or five different places.The places are 
+1- Root/Home directory
+     1.1 - c:\users\dell.gemini\Gemini.md 
+     To facilates its imapct in every project that uses Gemini CLI
+     It is mainly used to define the rules that should be applied on every project
+2- Project level Gemini.md
+     2.1 - Features like Tech stack, Test cases, Multi lingual etc can be written in project specific Gemini.md.
+3- File level Gemini.md
+    Can impact only those folders where Gemini.md can be made in the file or folder. 
+
+
+c- /memory 
+
+
+Project
+
+Initialize a project with UV package manager.
+Make a virtual enviorment using UV.
+Also activate the virtual enviorment.
+Create a simple FASTAPI get endpoint.
+In main.py initialize the fast api server
+
+FASTAPI 
+0- Initialize a project through UV
+1- Create activate a virtual enviorment
+prompt work
+2- Make an instance and end point
+
+uv run uvicorn main:app --reload
+
+To access FASTAPITo request endpoint 
+
+
+multi user 

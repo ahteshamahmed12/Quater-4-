@@ -1,0 +1,5 @@
+Mixture-of-Experts (refers to our LLM)
+
+1- Route (Gating system & mechansim).
+2- Query is routed to an expert.
+3- Activate small subsets.
